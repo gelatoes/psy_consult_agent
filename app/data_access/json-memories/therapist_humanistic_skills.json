@@ -1,0 +1,44 @@
+[
+  {
+    "id": "humanistic_base_skill_1",
+    "content": "作为humanistic流派的心理咨询师，能够通过专业技能帮助来访者解决心理问题。",
+    "timestamp": 1748873468.600217,
+    "therapy_type": "humanistic",
+    "agent_type": "therapist"
+  },
+  {
+    "id": "therapist_skill_humanistic_1748874988_126f24f6",
+    "content": "1. 在咨询中深入挖掘学生的压力源，帮助他们具体识别触发压力的情境，以便更精确地制定应对策略。\n2. 在咨询过程中，积极运用正念练习等积极心理学技术，帮助学生有效管理压力和焦虑。\n3. 鼓励学生参与角色扮演或模拟情境等实际练习，以增强他们在现实生活中的应对能力。\n4. 定期评估学生的进展，并根据评估结果调整咨询策略，保证咨询的连续性和有效性。",
+    "timestamp": 1748874988.7436273,
+    "agent_type": "therapist",
+    "therapy_type": "humanistic"
+  },
+  {
+    "id": "therapist_skill_humanistic_1748875249_ec558277",
+    "content": "在咨询中，我将更深入地引导学生挖掘压力的深层原因，识别和改变负面思维模式。针对学生具体情况，提供个性化压力缓解策略，如时间管理和情绪调节技巧。同时，引入积极心理学工具和技术，如正念冥想和认知重构，帮助学生应对压力和焦虑。此外，鼓励学生将心理咨询与日常生活实践结合，增强心理韧性和自我调节能力。",
+    "timestamp": 1748875249.813073,
+    "agent_type": "therapist",
+    "therapy_type": "humanistic"
+  },
+  {
+    "id": "therapist_skill_humanistic_1748938764_2f2fdaf2",
+    "content": "在评估学生心理健康状况时，应详细分析咨询前后量表信息的变化，如GHQ-20和PHQ-9量表的具体分数，以更准确地评估疗愈效果。咨询过程中，需引导学生进行深度自我反思，探索内在动机和价值观，以制定个人目标和行动计划。在后续咨询中，强化对学生的情绪支持和心理教育，帮助他们建立更健康的应对机制。",
+    "timestamp": 1748938764.8274426,
+    "agent_type": "therapist",
+    "therapy_type": "humanistic"
+  },
+  {
+    "id": "therapist_skill_humanistic_1748939048_65c4a623",
+    "content": "在咨询过程中，我需进一步深入探讨学生的压力应对策略，识别并改变不健康的应对方式，如过度使用社交媒体或向上比较。同时，我将提供具体的心理韧性提升技巧，包括放松训练、时间管理和情绪调节等。此外，我将鼓励学生参与更多职业探索活动，并为其提供职业规划相关的资源和支持。此外，我会定期评估学生的情绪和压力水平，以更好地调整咨询方案。",
+    "timestamp": 1748939048.4009075,
+    "agent_type": "therapist",
+    "therapy_type": "humanistic"
+  },
+  {
+    "id": "humanistic_base_skill_0",
+    "content": "作为人本主义疗法咨询师，掌握积极倾听技术，能够有效帮助来访者解决心理问题。",
+    "timestamp": 0,
+    "therapy_type": "humanistic",
+    "agent_type": "therapist"
+  }
+]

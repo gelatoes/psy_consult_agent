@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}个人中心{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card mt-4">
+            <div class="card-header">
+                <h4>个人资料</h4>
+            </div>
+            <div class="card-body">
+                {% if user %}
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><strong>用户ID:</strong> {{ user.id }}</li>
+                        <li class="list-group-item"><strong>用户名:</strong> {{ user.username }}</li>
+                        <li class="list-group-item"><strong>电子邮箱:</strong> {{ user.email }}</li>
+                        <li class="list-group-item"><strong>年级:</strong> {{ user.grade }}</li>
+                        <li class="list-group-item"><strong>性别:</strong> {{ user.gender }}</li>
+                        <li class="list-group-item"><strong>大学:</strong> {{ user.university }}</li>
+                        <li class="list-group-item"><strong>专业:</strong> {{ user.major }}</li>
+                    </ul>
+                {% else %}
+                    <p>无法加载用户信息。</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="card mt-4">
+            <div class="card-header">
+                <h4>心理咨询</h4>
+            </div>
+            <div class="card-body text-center">
+                <p>准备好开始了吗？点击下方按钮开启一次新的咨询。</p>
+                <form action="{{ url_for('start_consultation') }}" method="post" class="d-inline-block me-2">
+                    <button type="submit" class="btn btn-primary btn-lg">开始新的咨询</button>
+                </form>
+                <a href="{{ url_for('consultation_history') }}" class="btn btn-outline-secondary btn-lg">查看历史记录</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,62 @@
+{
+    "179fe0cf-dd5a-4e85-9862-28ed2e162f68": {
+        "session_id": "179fe0cf-dd5a-4e85-9862-28ed2e162f68",
+        "user_id": 1,
+        "session_status": "profiling",
+        "pre_survey_data": null,
+        "post_survey_data": null,
+        "psychological_profile": null,
+        "selected_therapist_type": null,
+        "created_at": "2025-09-26T08:03:38.834540+00:00",
+        "updated_at": "2025-09-26T08:03:38.851314+00:00",
+        "state": {
+            "current_student_basic_info": {
+                "username": "大三女北京联合大学文学",
+                "email": "大三女北京联合大学文学@example.com",
+                "grade": "大三",
+                "gender": "女",
+                "university": "北京联合大学",
+                "major": "文学",
+                "id": 1,
+                "created_at": "2025-09-26T08:03:37.627688+00:00",
+                "updated_at": "2025-09-26T08:03:37.627688+00:00"
+            },
+            "shared_memory": {},
+            "supervisor_working_memory": {},
+            "dialogue_history": [
+                [
+                    "您好！欢迎使用心理咨询系统。我是您的心理侧写师，接下来我会和您聊一聊，了解您的情况。您最近有什么烦心事吗？",
+                    "侧写师"
+                ]
+            ],
+            "psychological_portraits": {},
+            "current_phase": "profiling",
+            "initial_scales_result": {},
+            "scales_result_after_consultation": {},
+            "is_profile_complete": false,
+            "is_consultation_complete": false,
+            "current_profile_dialogue_index": 0,
+            "current_consultation_dialogue_index": 0,
+            "is_complete": false,
+            "selected_therapist_type": "cbt",
+            "evaluation_result": {},
+            "current_cbt_stage": "stage_1",
+            "cbt_stage_dialogues": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0,
+                "stage_4": 0
+            },
+            "cbt_stage_completions": {
+                "stage_1": [],
+                "stage_2": [],
+                "stage_3": [],
+                "stage_4": []
+            },
+            "topic_scores": {},
+            "core_topic": "",
+            "_cbt_topics_initialized": false,
+            "wait_for_user_input": true
+        }
+    }
+}

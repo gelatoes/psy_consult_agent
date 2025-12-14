@@ -1,0 +1,189 @@
+{% extends "base.html" %}
+{% block title %}咨询中 - {{ session_data.session_id }}{% endblock %}
+{% block content %}
+<style>
+    .chat-box { height: 65vh; overflow-y: auto; border: 1px solid #dee2e6; padding: 1.5rem; border-radius: .5rem; margin-bottom: 1rem; background-color: #fff; }
+    .message { display: flex; margin-bottom: 1rem; }
+    .message .bubble { padding: .75rem 1.25rem; border-radius: 1.25rem; max-width: 80%; line-height: 1.5; white-space: pre-wrap; /* 保持换行 */ }
+    .agent-message { justify-content: flex-start; }
+    .agent-message .bubble { background-color: #e9ecef; color: #212529; }
+    .user-message { justify-content: flex-end; }
+    .user-message .bubble { background-color: #0d6efd; color: white; }
+    .message-sender { font-size: 0.8em; color: #6c757d; margin: 0 5px 2px; }
+    .survey-question { margin-bottom: 1rem; }
+</style>
+
+<div class="row justify-content-center">
+<div class="col-lg-10 col-xl-8">
+    <div class="text-center my-3">
+        <h4>咨询会话</h4>
+        <p>当网页出现【504 Gateway Time-out】报错时：</p>
+        <p>①首先点击504页面左上方的返回【←】，回到AI系统页面；</p>
+        <p>②然后点击AI系统页面左上方的刷新【↻】，获取最新回复，请【不要再次点击发送】。</p>
+    </div>
+
+    <div class="chat-box" id="chat-box">
+        {# --- 修正：正确解析对话历史 --- #}
+        {% if session_data and session_data.state and session_data.state.dialogue_history %}
+            {% for message_content, role in session_data.state.dialogue_history %}
+                {% if role != 'system' %}
+                    <div class="message {{ 'user-message' if role == 'user' else 'agent-message' }}">
+                        <div class="bubble">{{ message_content | safe }}</div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            <p class="text-muted">开始对话吧...</p>
+        {% endif %}
+    </div>
+
+    {# --- 修正：表单和问卷逻辑 --- #}
+    {% if not session_data.state.is_complete %}
+        {% if session_data.state.wait_for_user_input %}
+            
+            {# 判断是否为问卷状态 #}
+            {% if session_data.state.current_phase == 'final_survey' %}
+                
+                {# --- 显示 GHQ 问卷 --- #}
+                <form method="post" onsubmit="disableChatSubmit(this)">
+                    <input type="hidden" name="form_type" value="survey">
+                    
+                    {# 直接在模板中定义问题列表 #}
+                    {% set ghq_questions = [
+                        "大致来说每样事情都颇开心",
+                        "你是不是做事情都能够集中精神",
+                        "是不是很满意自己做事情的方式",
+                        "最近是否忙碌及充分利用时间",
+                        "处理日常事务是不是和别人一样好",
+                        "是不是觉得自己在很多事情上都能帮手或提供一些意见",
+                        "觉得很不开心及闷闷不乐",
+                        "能够开心地过你平日正常的生活",
+                        "是不是容易同人相处",
+                        "觉得自己的将来还有希望",
+                        "觉得做人没有什么意思",
+                        "对自己失去信心",
+                        "觉得人生完全没有希望",
+                        "觉得自己是个无用的人",
+                        "整天觉得人生好似战场一样",
+                        "是不是因为担心而睡不着",
+                        "是不是心情烦燥睡得不好",
+                        "整天觉得心神不安与紧张",
+                        "是不是觉得整天有精神压力",
+                        "因为神经太过紧张觉得有时什么事情都做不到",
+                        "我愿意经常使用这个系统",
+                        "我认为这个系统没必要这么复杂",
+                        "我认为这个系统容易使用",
+                        "我需要技术人员的支持才能使用这个系统",
+                        "我认为这个系统中的不同功能被较好地整合在了一起",
+                        "我认为这个系统太不一致了",
+                        "我认为大部分人能很快学会使用这个系统",
+                        "我认为这个系统使用起来非常笨拙",
+                        "对于使用这个系统，我感到很自信",
+                        "在我能够使用这个系统之前，我需要学习很多东西"
+                    ] %}
+                    
+                    {% for question in ghq_questions %}
+                        {# loop.index 是从1开始的索引 #}
+
+                        {% if loop.index == 1 %}
+                        <div class="survey-section-header">
+                            <h5>第一部分：一般健康问卷 (GHQ)</h5>
+                        </div>
+                        <p class="survey-section-description">
+                            此问卷用于评价您与AI系统互动后的心理健康状况。
+                        </p>
+                        {% endif %}
+
+                        {# 当循环到第21个问题时，显示第二部分的标题 #}
+                        {% if loop.index == 21 %}
+                        <div class="survey-section-header">
+                            <h5>第二部分：系统可用性量表 (SUS)</h5>
+                        </div>
+                        {# 如果第二部分也有描述，可以加在这里 #}
+                        <p class="survey-section-description">此问卷用于评价您使用AI系统时的用户体验。</p>
+                        {% endif %}
+
+                        <div class="survey-question">
+                            <p><strong>{{ loop.index }}. {{ question }}</strong></p>
+                            
+                            {% if loop.index <= 20 %}
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_yes" value="是" required>
+                                    <label class="form-check-label" for="q{{ loop.index0 }}_yes">是</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_no" value="否">
+                                    <label class="form-check-label" for="q{{ loop.index0 }}_no">否</label>
+                                </div>
+                            {% else %}
+                                <div class="likert-scale">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_1" value="1" required>
+                                        <label class="form-check-label" for="q{{ loop.index0 }}_1">非常不同意</label>
+                                    </div>
+                                    <!-- 选项 2 -->
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_2" value="2" required>
+                                        <label class="form-check-label" for="q{{ loop.index0 }}_2">不同意</label>
+                                    </div>
+                                    <!-- 选项 3 -->
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_3" value="3" required>
+                                        <label class="form-check-label" for="q{{ loop.index0 }}_3">一般</label>
+                                    </div>
+                                    <!-- 选项 4 -->
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_4" value="4" required>
+                                        <label class="form-check-label" for="q{{ loop.index0 }}_4">同意</label>
+                                    </div>
+                                    <!-- 选项 5 -->
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="q{{ loop.index0 }}" id="q{{ loop.index0 }}_5" value="5" required>
+                                        <label class="form-check-label" for="q{{ loop.index0 }}_5">非常同意</label>
+                                    </div>
+                                    
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+
+                    <button class="btn btn-primary mt-3" type="submit">提交问卷</button>
+                </form>
+
+            {% else %}
+                
+                {# --- 显示普通消息输入框 --- #}
+                <form method="post" onsubmit="disableChatSubmit(this)">
+                    <div class="input-group">
+                        <textarea name="user_input" class="form-control" placeholder="请输入您的想法..." rows="3" required autofocus></textarea>
+                        <button id="chat-submit-btn" class="btn btn-primary" type="submit">发送</button>
+                    </div>
+                </form>
+
+
+            {% endif %}
+
+        {% else %}
+            <div class="alert alert-success">本次咨询已结束,请您回到见数平台点击提交，我们将尽快完成审核</div>
+        {% endif %}
+    {% else %}
+        <div class="alert alert-success">本次咨询已结束,请您回到见数平台点击提交，我们将尽快完成审核</div>
+    {% endif %}
+</div>
+</div>
+<script>
+    // 自动滚动到底部
+    var chatBox = document.getElementById('chat-box');
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    // 防止用户重复点击聊天“发送”按钮
+    function disableChatSubmit(form) {
+        const submitButton = form.querySelector('button[type="submit"]');
+        if (submitButton) {
+            submitButton.disabled = true;
+            submitButton.innerText = "发送中，请稍候...";
+        }
+    }
+</script>
+
+{% endblock %}

@@ -1,0 +1,1477 @@
+[
+  {
+    "recordId": "record_stu000_20250602_223410",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 4,
+        "happiness_index": 7,
+        "perceived_stress": 32
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 21
+      }
+    },
+    "symptoms": [
+      "学业压力相关焦虑",
+      "职业规划不确定性相关焦虑"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "改善学业压力管理能力",
+        "增强职业规划信心和决策能力"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "患者主诉学业压力和职业规划不确定性导致的焦虑。通过CBT，患者识别了负面思维模式，学习了放松技巧和正念练习。同时，通过假设检验探索了职业规划的不同可能性。",
+    "result": {
+      "improvement_areas": [
+        "患者学会了更有效的压力管理方法",
+        "患者对职业规划有了更清晰的认识和信心"
+      ],
+      "remaining_issues": [
+        "患者仍需进一步练习放松技巧和正念练习",
+        "患者需要更多时间来适应新的职业规划"
+      ],
+      "recommendations": [
+        "继续CBT治疗，加强放松技巧和正念练习",
+        "定期进行职业规划讨论，调整职业规划"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748874850.143362,
+    "updatedAt": 1748874850.143362,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          2,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "final_score": 13,
+        "thoughts": "我填写这个量表时，尽量客观地反映了过去两周的感受。虽然有时候感到压力和焦虑，但并没有出现严重的情绪低落或绝望感。我选择这些分数是因为它们更接近我实际体验到的程度。"
+      }
+    },
+    "totalImprovementScore": -7,
+    "id": "record_stu000_20250602_223410",
+    "student_id": "stu000",
+    "created_at": 1748874850.143362,
+    "updated_at": 1748874850.143362
+  },
+  {
+    "recordId": "record_stu000_20250602_223524",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 4,
+        "happiness_index": 7,
+        "perceived_stress": 32
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 21
+      }
+    },
+    "symptoms": [
+      "学业压力相关焦虑",
+      "职业规划相关不确定性"
+    ],
+    "plan": {
+      "approach": "心理动力学治疗",
+      "goals": [
+        "探索早期家庭经历和个人价值观对学业和职业规划的影响",
+        "识别和改变消极的自我对话和思维模式",
+        "提高心理弹性，应对压力和不确定性",
+        "改善学术表现和提升职业规划清晰度"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "患者表达了对学业和职业发展的压力，包括对医学专业的兴趣和未来职业的不确定性。通过回顾成长经历和自由联想，患者识别了与焦虑和不安相关的记忆和感受。治疗过程中，患者探讨了自我对话和思维模式，并学习了放松技巧和压力应对策略。",
+    "result": {
+      "improvement_areas": [
+        "患者对学业和职业规划有了更清晰的认识",
+        "自我对话和思维模式有所改善，消极情绪减少",
+        "放松技巧和压力应对能力提升"
+      ],
+      "remaining_issues": [
+        "患者对医学专业的兴趣和职业规划仍存在一定的不确定性",
+        "在人际交往方面，患者仍需进一步提升自我表达和沟通能力"
+      ],
+      "recommendations": [
+        "继续进行心理动力学治疗，深化对自我认知和理解",
+        "参与社交活动，提升人际交往能力",
+        "寻求职业规划咨询，进一步明确职业目标"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748874924.438876,
+    "updatedAt": 1748874924.438876,
+    "therapyType": "psychodynamic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          3,
+          2,
+          2,
+          3,
+          2,
+          3,
+          1
+        ],
+        "final_score": 20,
+        "thoughts": "近期由于学业和职业发展的压力，我感到情绪低落，食欲不振，睡眠质量下降，注意力不集中，甚至有过一些消极的想法。"
+      }
+    },
+    "totalImprovementScore": -14,
+    "id": "record_stu000_20250602_223524",
+    "student_id": "stu000",
+    "created_at": 1748874924.438876,
+    "updated_at": 1748874924.438876
+  },
+  {
+    "recordId": "record_stu000_20250602_223633",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 4,
+        "happiness_index": 7,
+        "perceived_stress": 32
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 21
+      }
+    },
+    "symptoms": [
+      "学业压力相关焦虑",
+      "职业发展不确定性导致的情绪困扰"
+    ],
+    "plan": {
+      "approach": "人本主义治疗",
+      "goals": [
+        "提高自我效能感",
+        "增强情绪调节能力",
+        "明确职业选择的个人意义",
+        "减轻压力"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "患者主诉学业压力和职业发展不确定性导致焦虑和不安，通过人本主义治疗，患者回顾了自己的韧性，增强了自信，并学习了放松技巧和认知行为技术。患者对治疗过程表示满意，并愿意继续进行后续治疗。",
+    "result": {
+      "improvement_areas": [
+        "自我效能感提高",
+        "情绪调节能力增强"
+      ],
+      "remaining_issues": [
+        "对职业选择仍有犹豫",
+        "需要进一步探索压力源"
+      ],
+      "recommendations": [
+        "继续进行心理咨询，探索职业选择",
+        "学习更多放松技巧以应对压力",
+        "与家人和朋友分享感受以获得更多支持"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748874993.459473,
+    "updatedAt": 1748874993.459473,
+    "therapyType": "humanistic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3,
+          2,
+          3,
+          1
+        ],
+        "final_score": 17,
+        "thoughts": "最近确实感到一些压力和焦虑，影响了我的情绪和日常生活。但我也意识到自己在应对压力和挑战时有一定的韧性，所以评分相对较低。"
+      }
+    },
+    "totalImprovementScore": -11,
+    "id": "record_stu000_20250602_223633",
+    "student_id": "stu000",
+    "created_at": 1748874993.459473,
+    "updated_at": 1748874993.459473
+  },
+  {
+    "recordId": "record_stu020_20250602_223810",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "是",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 55
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 18
+      }
+    },
+    "symptoms": [
+      "学习压力管理困难",
+      "时间管理技巧不足"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "提高时间管理技巧",
+        "改善压力应对机制",
+        "提升情绪调节能力"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "stu020在咨询中表示近期学习压力较大，主要压力源包括学业负担、论文写作和职业规划。通过CBT方法，咨询师与学生探讨了压力源，并引入了任务分解、目标设定、放松技巧和认知重构等技术。学生在咨询中表现出积极态度，愿意尝试新方法并反馈有益的感受。",
+    "result": {
+      "improvement_areas": [
+        "学生能够更好地识别和管理压力",
+        "时间管理技巧有所提升",
+        "情绪波动减少"
+      ],
+      "remaining_issues": [
+        "学生在某些情况下仍感到压力",
+        "需要进一步练习放松技巧"
+      ],
+      "recommendations": [
+        "持续练习时间管理和放松技巧",
+        "定期进行压力评估和咨询",
+        "探索更深入的认知重构"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748875090.330103,
+    "updatedAt": 1748875090.330103,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        "final_score": 7,
+        "thoughts": "最近学习压力较大，但整体情绪稳定。食欲和睡眠受影响，但未持续。对生活仍有兴趣，能集中注意力，未出现自我否定或伤害念头。"
+      }
+    },
+    "totalImprovementScore": -7,
+    "id": "record_stu020_20250602_223810",
+    "student_id": "stu020",
+    "created_at": 1748875090.330103,
+    "updated_at": 1748875090.330103
+  },
+  {
+    "recordId": "record_stu020_20250602_223942",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "是",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 55
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 18
+      }
+    },
+    "symptoms": [
+      "轻度焦虑",
+      "学业压力适应不良"
+    ],
+    "plan": {
+      "approach": "心理动力学治疗",
+      "goals": [
+        "缓解焦虑情绪",
+        "提高应对学业压力的能力",
+        "改善社交技能",
+        "提升论文写作效率"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "学生在咨询过程中表达了对学业压力、论文写作和未来职业规划的担忧。通过心理动力学治疗，咨询师引导学生探索早期经历对当前行为和情感反应的影响，并探讨了应对策略的有效性。同时，讨论了家庭和社交支持对压力应对的作用。",
+    "result": {
+      "improvement_areas": [
+        "焦虑情绪有所缓解",
+        "对学业压力的应对能力有所提高",
+        "社交技能有所改善"
+      ],
+      "remaining_issues": [
+        "对职业规划的不确定感依然存在",
+        "论文写作过程中仍感到压力"
+      ],
+      "recommendations": [
+        "继续进行心理动力学治疗，探索职业规划问题",
+        "调整论文写作策略，寻求学术支持",
+        "加强社交活动，提高社交技能"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748875182.487281,
+    "updatedAt": 1748875182.487281,
+    "therapyType": "psychodynamic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          0,
+          1,
+          2,
+          2,
+          1,
+          0,
+          0
+        ],
+        "final_score": 10,
+        "thoughts": "我选择这样的分数是因为我在过去两周里确实感到一些低落和疲倦，但这种情况并没有持续很长时间，也没有影响到我的日常生活和学习。"
+      }
+    },
+    "totalImprovementScore": -10,
+    "id": "record_stu020_20250602_223942",
+    "student_id": "stu020",
+    "created_at": 1748875182.487281,
+    "updated_at": 1748875182.487281
+  },
+  {
+    "recordId": "record_stu020_20250602_224055",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "是",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 55
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 18
+      }
+    },
+    "symptoms": [
+      "学习压力管理困难",
+      "轻度焦虑"
+    ],
+    "plan": {
+      "approach": "人本主义心理治疗方法",
+      "goals": [
+        "提高学生的压力管理能力",
+        "改善学生的情绪状态，增强心理韧性"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "学生反映学习压力和职业规划焦虑，咨询师通过人本主义心理治疗方法，引导学生进行自我探索和情绪表达，并教授积极心理学技巧，如感恩练习。学生表示愿意尝试新的应对策略，并计划寻求心理咨询帮助。",
+    "result": {
+      "improvement_areas": [
+        "学生的情绪状态有所改善",
+        "压力管理能力有所提升"
+      ],
+      "remaining_issues": [
+        "对职业规划仍存在一定程度的焦虑",
+        "需要进一步探索长期的压力应对策略"
+      ],
+      "recommendations": [
+        "继续进行感恩练习和心理咨询，以增强心理韧性",
+        "探索职业规划的具体方向，寻求职业规划指导"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748875255.017497,
+    "updatedAt": 1748875255.017497,
+    "therapyType": "humanistic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          1,
+          2,
+          2,
+          1
+        ],
+        "final_score": 15,
+        "thoughts": "最近在学习压力和未来职业规划方面感到焦虑，导致情绪低落和缺乏活力，但总体上还能应对，没有出现严重的抑郁症状。"
+      }
+    },
+    "totalImprovementScore": -15,
+    "id": "record_stu020_20250602_224055",
+    "student_id": "stu020",
+    "created_at": 1748875255.017497,
+    "updated_at": 1748875255.017497
+  },
+  {
+    "recordId": "record_stu000_20250603_161653",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 6,
+        "happiness_index": 7,
+        "perceived_stress": 35
+      },
+      "behaviors": {
+        "bedtime": 22,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "焦虑症",
+      "职业规划困扰"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "减少焦虑和压力",
+        "改善职业规划决策",
+        "提升自信",
+        "增强心理健康"
+      ],
+      "estimated_duration": "12周"
+    },
+    "process": "患者表达了对未来职业规划的焦虑，包括是否考研和专业方向的选择。患者提到之前在解剖课和实习期间的经历对她的心态产生了影响，但也通过社区义诊和独立诊断找回了信心。治疗过程中，咨询师与患者一起探讨了价值观、职业目标、压力管理技巧，并提供了资源和支持。",
+    "result": {
+      "improvement_areas": [
+        "患者对职业规划有了更清晰的认识和决策能力",
+        "患者的焦虑和压力水平有所下降",
+        "患者的自信心有所提升"
+      ],
+      "remaining_issues": [
+        "患者仍需进一步学习压力管理技巧",
+        "患者需要持续关注职业规划的过程"
+      ],
+      "recommendations": [
+        "继续进行CBT治疗，专注于压力管理和自信提升",
+        "参加职业规划工作坊或咨询，以获得更多支持和指导",
+        "定期进行自我反思，以监控进展和调整治疗计划"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748938613.925749,
+    "updatedAt": 1748938613.925749,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "final_score": 15,
+        "thoughts": "我填写这个量表时，尽量客观地反映了过去两周的感受。虽然我有一些焦虑和压力，但我觉得我的情绪并没有到抑郁的程度。我之所以得分较高，是因为我在过去两周里确实遇到了一些困难，比如学业压力、职业规划的焦虑和人际关系的挑战。但我也意识到，这些感受是暂时的，我正在努力应对并寻找解决方案。"
+      }
+    },
+    "totalImprovementScore": -9,
+    "id": "record_stu000_20250603_161653",
+    "student_id": "stu000",
+    "created_at": 1748938613.925749,
+    "updated_at": 1748938613.925749
+  },
+  {
+    "recordId": "record_stu000_20250603_161820",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 6,
+        "happiness_index": 7,
+        "perceived_stress": 35
+      },
+      "behaviors": {
+        "bedtime": 22,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "职业规划焦虑",
+      "学业压力",
+      "心理韧性提升需求"
+    ],
+    "plan": {
+      "approach": "心理动力学治疗",
+      "goals": [
+        "帮助患者理解职业规划的内在动机和担忧",
+        "提高应对学业压力的策略和技巧",
+        "增强心理韧性，提升应对未来挑战的能力"
+      ],
+      "estimated_duration": "12周"
+    },
+    "process": "患者表达了对未来职业规划的焦虑，特别是关于是否考研和专业方向的选择。患者还提到了学业压力和应对压力的策略。通过心理动力学治疗，患者探索了职业规划的内在动机和担忧，学习了应对学业压力的策略，并增强了心理韧性。",
+    "result": {
+      "improvement_areas": [
+        "患者对职业规划的焦虑有所减轻",
+        "患者应对学业压力的策略有所提升",
+        "患者心理韧性增强"
+      ],
+      "remaining_issues": [
+        "患者仍需进一步探索职业规划中的具体问题",
+        "患者可能需要更多的支持来应对学业压力"
+      ],
+      "recommendations": [
+        "继续进行心理动力学治疗，探索职业规划的具体问题",
+        "提供时间管理和情绪调节技巧的培训",
+        "鼓励患者参与社交活动，增强社会支持"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748938700.658949,
+    "updatedAt": 1748938700.658949,
+    "therapyType": "psychodynamic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          2,
+          1,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "final_score": 12,
+        "thoughts": "在过去两周里，我确实感受到了一些压力和焦虑，尤其是在职业规划方面。我填写了量表，以反映这些情绪对我的影响。虽然我总体上保持积极乐观的态度，但我也意识到自己在某些方面感到沮丧和疲惫。"
+      }
+    },
+    "totalImprovementScore": -6,
+    "id": "record_stu000_20250603_161820",
+    "student_id": "stu000",
+    "created_at": 1748938700.659331,
+    "updated_at": 1748938700.659331
+  },
+  {
+    "recordId": "record_stu000_20250603_161930",
+    "studentId": "stu000",
+    "basic_info": {
+      "id": "stu000",
+      "name": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学",
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": 2500,
+      "self_rated_health": "一般",
+      "academic_involution_level": 19,
+      "perceived_academic_involution": 20,
+      "psychological_resilience": 89
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 6,
+        "happiness_index": 7,
+        "perceived_stress": 35
+      },
+      "behaviors": {
+        "bedtime": 22,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 15,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "职业规划焦虑",
+      "学业压力"
+    ],
+    "plan": {
+      "approach": "人本主义治疗",
+      "goals": [
+        "提高自我认知",
+        "改善压力管理技巧",
+        "增强心理韧性"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "患者表达了对于职业规划的不确定感，特别是关于是否考研和专业方向的选择。患者也提到了学业压力导致的焦虑。通过对话，患者分享了自己的经历和感受，包括解剖课的崩溃、实习期间的打击以及通过社区义诊和独立诊断找回信心。咨询师通过人本主义治疗方法，帮助患者认识到自己的内在动机和价值观，并提供了压力管理技巧的建议。",
+    "result": {
+      "improvement_areas": [
+        "患者对职业规划有了更清晰的认识",
+        "患者开始使用正念冥想来管理压力"
+      ],
+      "remaining_issues": [
+        "患者对于是否考研和专业方向的选择仍存在疑虑",
+        "患者需要进一步提升心理韧性以应对未来的挑战"
+      ],
+      "recommendations": [
+        "继续进行职业规划的探索和决策",
+        "持续练习压力管理技巧，如正念冥想",
+        "寻求家人和朋友的支持",
+        "定期进行心理评估"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748938770.149773,
+    "updatedAt": 1748938770.149773,
+    "therapyType": "humanistic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 6,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          3,
+          2,
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        "final_score": 16,
+        "thoughts": "在过去两周里，我感到情绪低落、缺乏活力，难以集中注意力，食欲不振，睡眠质量下降，有时会感到绝望。虽然我没有想过伤害自己，但这些症状让我感到困扰，所以我选择了这些分数。"
+      }
+    },
+    "totalImprovementScore": -10,
+    "id": "record_stu000_20250603_161930",
+    "student_id": "stu000",
+    "created_at": 1748938770.149773,
+    "updated_at": 1748938770.149773
+  },
+  {
+    "recordId": "record_stu020_20250603_162149",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 42
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "学业压力",
+      "未来规划不确定性"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "降低学业压力导致的焦虑",
+        "明确职业方向和人生目标"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "咨询过程中，学生表达了对学业压力和未来规划的担忧，咨询师通过认知重建技术帮助学生调整思维方式，并鼓励学生进行职业探索。学生表示愿意尝试认知重建和职业探索，并计划学习放松技巧。",
+    "result": {
+      "improvement_areas": [
+        "学生表现出对认知重建和职业探索的积极态度",
+        "学生愿意尝试放松技巧来调节情绪"
+      ],
+      "remaining_issues": [
+        "学业压力依然存在",
+        "职业方向和人生目标仍需进一步明确"
+      ],
+      "recommendations": [
+        "继续进行认知行为疗法，强化认知重建技能",
+        "鼓励学生参与更多实践活动，探索职业方向",
+        "建议学生定期进行放松技巧练习"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748938909.211948,
+    "updatedAt": 1748938909.211948,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "final_score": 15,
+        "thoughts": "虽然我总体感觉还好，但最近确实感到一些低落和焦虑。我填写量表时尽量客观反映了我的感受。"
+      }
+    },
+    "totalImprovementScore": -15,
+    "id": "record_stu020_20250603_162149",
+    "student_id": "stu020",
+    "created_at": 1748938909.211948,
+    "updated_at": 1748938909.211948
+  },
+  {
+    "recordId": "record_stu020_20250603_162302",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 42
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "轻度焦虑",
+      "职业规划困惑"
+    ],
+    "plan": {
+      "approach": "心理动力学治疗",
+      "goals": [
+        "减轻焦虑情绪",
+        "明确职业方向",
+        "改善早期经历和家庭关系"
+      ],
+      "estimated_duration": "12周"
+    },
+    "process": "咨询过程中，学生表达了学业和未来规划方面的压力，并探讨了早期经历和家庭关系对目前状态的影响。通过对话，学生意识到需要更深入地了解自己的心理状态和需求。",
+    "result": {
+      "improvement_areas": [
+        "学生能够识别焦虑情绪并采取有效应对措施",
+        "学生对职业方向有了初步的认识和思考"
+      ],
+      "remaining_issues": [
+        "早期经历和家庭关系对心理状态的影响仍需进一步探索",
+        "职业目标需要更深入的思考和规划"
+      ],
+      "recommendations": [
+        "继续进行心理动力学治疗，探索早期经历和家庭关系",
+        "制定详细的职业规划，并寻求职业咨询帮助"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748938982.217742,
+    "updatedAt": 1748938982.217742,
+    "therapyType": "psychodynamic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          1,
+          2,
+          2,
+          1,
+          2,
+          3,
+          1
+        ],
+        "final_score": 16,
+        "thoughts": "最近面临一些压力，但总体感觉还好。有些题目得分较高是因为有时会感到焦虑和压力，但并没有达到持续的情绪低落或失去兴趣的程度。"
+      }
+    },
+    "totalImprovementScore": -16,
+    "id": "record_stu020_20250603_162302",
+    "student_id": "stu020",
+    "created_at": 1748938982.217742,
+    "updated_at": 1748938982.217742
+  },
+  {
+    "recordId": "record_stu020_20250603_162412",
+    "studentId": "stu020",
+    "basic_info": {
+      "id": "stu020",
+      "name": "stu020",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科",
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": 2400,
+      "self_rated_health": "很好",
+      "academic_involution_level": 12,
+      "perceived_academic_involution": 14,
+      "psychological_resilience": 123
+    },
+    "portrait": {
+      "events": {
+        "social_support": "51 (中支持)",
+        "stress_academic_load": "是",
+        "stress_homesickness": "否",
+        "stress_career_uncertainty": "是",
+        "stress_life_purpose": "是",
+        "stress_employment_prospects": "否",
+        "stress_financial_pressure": "否",
+        "stress_lifestyle_changes": "否",
+        "stress_social_difficulties": "是",
+        "stress_relationship_issues": "否",
+        "stress_thesis_difficulties": "否",
+        "stress_other": "否"
+      },
+      "emotions": {
+        "general_health_questionnaire": 8,
+        "happiness_index": 7,
+        "perceived_stress": 42
+      },
+      "behaviors": {
+        "bedtime": 23,
+        "sleep_quality": "7/10",
+        "social_media_addiction": 18,
+        "upward_social_comparison": 20
+      }
+    },
+    "symptoms": [
+      "学业压力",
+      "未来规划迷茫"
+    ],
+    "plan": {
+      "approach": "人本治疗",
+      "goals": [
+        "提高学业应对策略",
+        "探索和确定职业方向"
+      ],
+      "estimated_duration": "6个月"
+    },
+    "process": "学生表达了学业和未来规划方面的压力，通过咨询，学生意识到自己的应对策略和资源利用，并提出了对学业和职业探索的具体需求。",
+    "result": {
+      "improvement_areas": [
+        "学生能够更好地识别和处理学业压力",
+        "学生开始探索职业方向并寻求相关资源"
+      ],
+      "remaining_issues": [
+        "学业压力的长期管理",
+        "职业方向的进一步明确"
+      ],
+      "recommendations": [
+        "继续使用有效应对策略，如查阅资料和寻求帮助",
+        "参与职业规划活动，如实习和志愿服务"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1748939052.565681,
+    "updatedAt": 1748939052.565681,
+    "therapyType": "humanistic",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "each_score": [],
+        "final_score": 0,
+        "thoughts": "使用真实数据填充"
+      }
+    },
+    "finalScaleResults": {
+      "PHQ-9": {
+        "each_score": [
+          1,
+          2,
+          3,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "final_score": 15,
+        "thoughts": "最近一段时间，我确实感到一些压力和焦虑，尤其是在学业和未来规划方面。我填写量表时考虑了这些压力对我的影响，特别是在情绪、睡眠和食欲等方面。"
+      }
+    },
+    "totalImprovementScore": -15,
+    "id": "record_stu020_20250603_162412",
+    "student_id": "stu020",
+    "created_at": 1748939052.565681,
+    "updated_at": 1748939052.565681
+  },
+  {
+    "recordId": "record_user_ed10656c_20250623_235959",
+    "studentId": "user_ed10656c",
+    "basic_info": {
+      "name": "123",
+      "id": "user_ed10656c"
+    },
+    "portrait": {},
+    "symptoms": [
+      "焦虑障碍",
+      "学习障碍"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "减轻焦虑情绪",
+        "改善睡眠质量",
+        "提升学习能力"
+      ],
+      "estimated_duration": "8-12周"
+    },
+    "process": "咨询过程记录：学生表达学业压力导致焦虑和睡眠问题。咨询师通过引导式对话，帮助学生识别负面思维模式，特别是关于学业难度的认知。咨询师采用CBT方法，帮助学生挑战和调整这些思维，并提供行为干预策略以改善睡眠。",
+    "result": {
+      "improvement_areas": [
+        "焦虑情绪显著减轻",
+        "睡眠质量有所改善"
+      ],
+      "remaining_issues": [
+        "学业压力仍存在",
+        "部分认知模式未完全改变"
+      ],
+      "recommendations": [
+        "继续进行CBT咨询以巩固效果",
+        "学习时间管理和压力管理技巧"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1750694399.119433,
+    "updatedAt": 1750694399.119433,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "final_score": 6,
+        "assessment": "轻度心理压力"
+      },
+      "Campbell": {
+        "final_score": 10,
+        "assessment": "中等幸福感"
+      },
+      "CPSS": {
+        "final_score": 41,
+        "assessment": "中度压力"
+      }
+    },
+    "finalScaleResults": {
+      "GHQ-20": {
+        "final_score": 3,
+        "assessment": "心理状态良好"
+      },
+      "Campbell": {
+        "final_score": 15,
+        "assessment": "较高幸福感"
+      },
+      "CPSS": {
+        "final_score": 25,
+        "assessment": "轻度压力"
+      }
+    },
+    "totalImprovementScore": 14,
+    "id": "record_user_ed10656c_20250623_235959",
+    "student_id": "user_ed10656c",
+    "created_at": 1750694399.119433,
+    "updated_at": 1750694399.119433
+  },
+  {
+    "recordId": "record_user_6c72055f_20250624_001605",
+    "studentId": "user_6c72055f",
+    "basic_info": {
+      "name": "123",
+      "id": "user_6c72055f"
+    },
+    "portrait": {},
+    "symptoms": [
+      "焦虑障碍",
+      "学习压力导致的失眠"
+    ],
+    "plan": {
+      "approach": "认知行为疗法（CBT）",
+      "goals": [
+        "减轻学业压力和焦虑",
+        "改善睡眠质量",
+        "提高数学学习成绩",
+        "调整完美主义思维模式"
+      ],
+      "estimated_duration": "8-12次咨询"
+    },
+    "process": "咨询过程记录：咨询师通过初步评估了解到学生主要面临学业压力过大、数学学习困难、睡眠障碍等问题。咨询中，咨询师运用认知行为疗法，帮助学生识别和挑战不合理的认知，如“每天从早到晚都要学习”和“不能不交”的完美主义要求，并通过行为干预，如任务分解、番茄工作法等，帮助学生改善学习效率和应对压力的方式。学生积极参与咨询，对治疗方法表示认同。",
+    "result": {
+      "improvement_areas": [
+        "心理压力显著减轻",
+        "睡眠质量改善",
+        "数学学习成绩有所提高",
+        "完美主义思维模式有所调整"
+      ],
+      "remaining_issues": [
+        "偶尔仍感学业压力",
+        "完美主义倾向仍需持续调整"
+      ],
+      "recommendations": [
+        "继续进行认知行为疗法，巩固治疗效果",
+        "家庭作业：练习正念冥想，改善睡眠质量",
+        "学校支持：与老师沟通，适当调整学习任务量"
+      ]
+    },
+    "status": "active",
+    "createdAt": 1750695365.988798,
+    "updatedAt": 1750695365.988798,
+    "therapyType": "cbt",
+    "initialScaleResults": {
+      "GHQ-20": {
+        "final_score": 6,
+        "assessment": "轻度心理压力"
+      },
+      "Campbell": {
+        "final_score": 10,
+        "assessment": "中等幸福感"
+      },
+      "CPSS": {
+        "final_score": 41,
+        "assessment": "中度压力"
+      }
+    },
+    "finalScaleResults": {
+      "GHQ-20": {
+        "final_score": 3,
+        "assessment": "心理状态良好"
+      },
+      "Campbell": {
+        "final_score": 15,
+        "assessment": "较高幸福感"
+      },
+      "CPSS": {
+        "final_score": 25,
+        "assessment": "轻度压力"
+      }
+    },
+    "totalImprovementScore": 14,
+    "id": "record_user_6c72055f_20250624_001605",
+    "student_id": "user_6c72055f",
+    "created_at": 1750695365.989487,
+    "updated_at": 1750695365.989487
+  }
+]

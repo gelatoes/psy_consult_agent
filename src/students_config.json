@@ -1,0 +1,38 @@
+[
+  {"basic_info": {
+      "id": "stu001",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "psychologicalPortrait": {
+      "mental_health": {
+        "general_health_questionnaire": "4 (≥1为坏)"
+      },
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "57 (≥61为好)",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25 (≥11为坏)",
+        "upward_social_comparison": "23 (≥11为坏)",
+        "psychological_resilience": "90 (≥123为好)",
+        "stressor_count": "5 (≥2为坏)"
+      },
+      "irrelevant_info": {
+        "only_child": "否",
+        "academic_performance": "综合成绩排名26%-50%",
+        "parents_residence": "乡镇、农村",
+        "mother_education": "小学",
+        "monthly_allowance": "2000元",
+        "bedtime": 23,
+        "self_rated_health": "很好",
+        "social_media_addiction": 21,
+        "academic_involution_level": 20,
+        "happiness_index": 13,
+        "perceived_stress": 37
+      }
+    }
+  }
+]

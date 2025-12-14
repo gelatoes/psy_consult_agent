@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}用户登录{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-5 col-md-7">
+        <div class="card shadow-lg border-0 rounded-lg mt-5">
+            <div class="card-header"><h3 class="text-center font-weight-light my-4">用户登录</h3></div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
+                        <label for="username">用户名</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+                        <label for="password">密码</label>
+                    </div>
+                    <div class="d-grid mt-4 mb-0">
+                        <button type="submit" class="btn btn-primary btn-block">登录</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center py-3">
+                <div class="small"><a href="{{ url_for('register') }}">还没有账户？去注册</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

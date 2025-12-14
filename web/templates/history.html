@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}咨询历史{% endblock %}
+{% block content %}
+<h2>我的咨询历史</h2>
+<hr>
+{% if sessions %}
+    <div class="list-group">
+        {% for session in sessions %}
+            <a href="{{ url_for('chat_session', session_id=session.session_id) }}" class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">会话 ID: {{ session.session_id }}</h5>
+                    
+                    {# --- 核心修改：使用 session_status 判断会话状态 --- #}
+                    <small>
+                        {% if session.session_status == 'completed' %}
+                            <span class="badge bg-secondary">已完成</span>
+                        {% elif session.session_status == 'in_progress' %}
+                            <span class="badge bg-success">进行中</span>
+                        {% else %}
+                            {# 为其他可能的状态提供一个默认显示 #}
+                            <span class="badge bg-info">{{ session.session_status }}</span>
+                        {% endif %}
+                    </small>
+                </div>
+                
+                {# --- 修正：使用正确的字段名 created_at 和 updated_at --- #}
+                {% if session.created_at %}
+                    <p class="mb-1">开始时间: {{ session.created_at.split('.')[0].replace('T', ' ') }}</p>
+                {% endif %}
+                
+                {% if session.updated_at %}
+                    <small class="text-muted">最后更新: {{ session.updated_at.split('.')[0].replace('T', ' ') }}</small>
+                {% endif %}
+
+            </a>
+        {% endfor %}
+    </div>
+{% else %}
+    <p class="text-muted">您还没有任何咨询记录。</p>
+{% endif %}
+<a href="{{ url_for('profile') }}" class="btn btn-secondary mt-3">返回个人中心</a>
+{% endblock %}

@@ -1,0 +1,76 @@
+[
+  {
+    "basic_info": {
+      "id": "stu000",
+      "grade": "大五",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": 6,
+      "Campbell": 10,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "51 (≥61为好)",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20 (≥11为坏)",
+        "upward_social_comparison": "24 (≥11为坏)",
+        "psychological_resilience": "89 (≥123为好)",
+        "stressor_count": "4 (≥2为坏)"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": "2500元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu001",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": 4,
+      "Campbell": 10,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "57 (≥61为好)",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25 (≥11为坏)",
+        "upward_social_comparison": "23 (≥11为坏)",
+        "psychological_resilience": "90 (≥123为好)",
+        "stressor_count": "5 (≥2为坏)"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "很好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 20
+    }
+  }
+]

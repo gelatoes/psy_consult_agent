@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}欢迎 - AI心理咨询{% endblock %}
+{% block content %}
+<div class="px-4 py-5 my-5 text-center">
+    <h1 class="display-5 fw-bold">欢迎使用 AI 心理咨询系统</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">一个安全、私密的空间，在这里您可以与先进的 AI 咨询师进行对话，探索您的内心世界。</p>
+        {% if user %}
+            <p>你好, <strong>{{ user.username }}</strong>！很高兴再次见到你。</p>
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                <form action="{{ url_for('start_consultation') }}" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-primary btn-lg px-4 gap-3">开始新的咨询</button>
+                </form>
+                <a href="{{ url_for('consultation_history') }}" class="btn btn-outline-secondary btn-lg px-4">查看历史记录</a>
+            </div>
+        {% else %}
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg px-4">登录</a>
+                <a href="{{ url_for('register') }}" class="btn btn-outline-secondary btn-lg px-4">注册</a>
+            </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

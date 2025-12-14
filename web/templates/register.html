@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block title %}用户注册{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-5 col-md-7">
+        <div class="card shadow-lg border-0 rounded-lg mt-5">
+            <div class="card-header"><h3 class="text-center font-weight-light my-4">基本信息</h3><p class="text-center font-weight-light my-4">请按照#上学期#情况作答</p></div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="form-floating mb-3">
+                        <select class="form-select" id="grade" name="grade" required>
+                            <option value="" disabled selected>请选择年级</option>
+                            <option value="大一">大一</option>
+                            <option value="大二">大二</option>
+                            <option value="大三">大三</option>
+                            <option value="大四">大四</option>
+                            <option value="大五">大五</option>
+                            <option value="硕士">硕士</option>
+                            <option value="博士">博士</option>
+                          </select>
+                        <label for="grade">年级</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <select class="form-select" id="gender" name="gender" required>
+                          <option value="" disabled selected>请选择性别</option>
+                          <option value="男">男</option>
+                          <option value="女">女</option>
+                        </select>
+                        <label for="gender">性别</label>
+                      </div>                      
+                    <div class="form-floating mb-3">
+                        <select class="form-select" id="university" name="university" required>
+                            <option value="" disabled selected>请选择学校</option>
+                            <option value="北京大学">北京大学</option>
+                            <option value="北方工业大学">北方工业大学</option>
+                            <option value="北京城市学院">北京城市学院</option>
+                            <option value="北京第二外国语学院">北京第二外国语学院</option>
+                            <option value="北京工商大学">北京工商大学</option>
+                            <option value="北京工业大学">北京工业大学</option>
+                            <option value="北京工业大学耿丹学院">北京工业大学耿丹学院</option>
+                            <option value="北京航空航天大学">北京航空航天大学</option>
+                            <option value="北京交通大学">北京交通大学</option>
+                            <option value="北京理工大学">北京理工大学</option>
+                            <option value="北京联合大学">北京联合大学</option>
+                            <option value="北京林业大学">北京林业大学</option>
+                            <option value="北京农学院">北京农学院</option>
+                            <option value="北京农业职业学院">北京农业职业学院</option>
+                            <option value="北京师范大学">北京师范大学</option>
+                            <option value="北京体育大学">北京体育大学</option>
+                            <option value="北京外国语大学">北京外国语大学</option>
+                            <option value="北京邮电大学">北京邮电大学</option>
+                            <option value="北京语言大学">北京语言大学</option>
+                            <option value="北京中医药大学">北京中医药大学</option>
+                            <option value="对外经济贸易大学">对外经济贸易大学</option>
+                            <option value="华北电力大学">华北电力大学</option>
+                            <option value="清华大学">清华大学</option>
+                            <option value="首都经济贸易大学">首都经济贸易大学</option>
+                            <option value="首都师范大学">首都师范大学</option>
+                            <option value="首都体育学院">首都体育学院</option>
+                            <option value="首都医科大学">首都医科大学</option>
+                            <option value="中国传媒大学">中国传媒大学</option>
+                            <option value="中国地质大学(北京)">中国地质大学(北京)</option>
+                            <option value="中国科学院大学">中国科学院大学</option>
+                            <option value="中国农业大学">中国农业大学</option>
+                            <option value="中国人民大学">中国人民大学</option>
+                            <option value="中国社会科学院大学">中国社会科学院大学</option>
+                            <option value="中国石油大学（北京）">中国石油大学（北京）</option>
+                            <option value="中国政法大学">中国政法大学</option>
+                            <option value="中央财经大学">中央财经大学</option>
+                            <option value="中央民族大学">中央民族大学</option>
+                          </select>
+                        <label for="university">大学</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <select class="form-select" id="major" name="major" required>
+                            <option value="" disabled selected>请选择专业</option>
+                            <option value="哲学">哲学</option>
+                            <option value="经济学">经济学</option>
+                            <option value="法学">法学</option>
+                            <option value="教育学">教育学</option>
+                            <option value="文学">文学</option>
+                            <option value="历史学">历史学</option>
+                            <option value="理学">理学</option>
+                            <option value="工学">工学</option>
+                            <option value="农学">农学</option>
+                            <option value="医学">医学</option>
+                            <option value="管理学">管理学</option>
+                            <option value="艺术学">艺术学</option>
+                          </select>
+                        <label for="major">专业</label>
+                    </div>
+                    <div class="d-grid mt-4 mb-0">
+                        <button type="submit" class="btn btn-primary btn-block">提交</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,5811 @@
+[
+  {
+    "basic_info": {
+      "id": "stu315",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 10,
+      "CPSS": 38
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "111",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 22,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu316",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "17",
+      "Campbell": 4,
+      "CPSS": 58
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "32",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "17",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "49",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu317",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 12,
+      "CPSS": 28
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "71",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "107",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 23
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu318",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 8,
+      "CPSS": 45
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "66",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "13",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "84",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1200元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu319",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 14,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "11.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "80",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "17",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "120",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu320",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 27
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "78",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "13",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "123",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 27,
+      "academic_involution_level": 29
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu321",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "73",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "101",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 16,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu322",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 11,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "12",
+        "psychological_resilience": "113",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu323",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 7,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "71",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "29",
+        "psychological_resilience": "102",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 8,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu324",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 7,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "64",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "30",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "95",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu325",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "14",
+      "Campbell": 9,
+      "CPSS": 54
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "13",
+        "psychological_resilience": "89",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "县城",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 1,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu326",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 9,
+      "CPSS": 38
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "71",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "17",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "118",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu327",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 7,
+      "CPSS": 48
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "51",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "76",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 23,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu328",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "48",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "10",
+        "psychological_resilience": "90",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "小学",
+      "monthly_allowance": "1000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu329",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "46",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "94",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 16,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu330",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 11,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "82",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "108",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 24,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu331",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "78",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "99",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu332",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "16",
+      "Campbell": 8,
+      "CPSS": 53
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "50",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "72",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu333",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "17",
+      "Campbell": 4,
+      "CPSS": 56
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "3/10",
+        "social_support": "47",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "63",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu334",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 9,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "57",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "96",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1300元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu335",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "艺术"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 8,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "59",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "92",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 13,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu336",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "69",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "13",
+        "psychological_resilience": "99",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "3500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu337",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 8,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "57",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "16",
+        "psychological_resilience": "91",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 9
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu338",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "13",
+      "Campbell": 6,
+      "CPSS": 56
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "77",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "30",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "96",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 27,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu339",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 13,
+      "CPSS": 32
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "68",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "15",
+        "psychological_resilience": "112",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 15,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu340",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "16",
+      "Campbell": 5,
+      "CPSS": 48
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.5小时",
+        "sleep_quality": "3/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "19",
+        "psychological_resilience": "80",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名后10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 22,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu341",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 9,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "64",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "15",
+        "psychological_resilience": "106",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2500元",
+      "bedtime": 2,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 22,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu342",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "7",
+      "Campbell": 7,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "67",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "103",
+        "stressor_count": "1"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 19,
+      "academic_involution_level": 25
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu343",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 11,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "15.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "66",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "13",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "113",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "100元",
+      "bedtime": 23,
+      "self_rated_health": "很好",
+      "social_media_addiction": 16,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu344",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 9,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "70",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "98",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu345",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "7",
+      "Campbell": 9,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "96",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 21,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu346",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 11,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "3/10",
+        "social_support": "41",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "10",
+        "psychological_resilience": "89",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名后10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "5000元",
+      "bedtime": 4,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 26,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu347",
+      "grade": "大二",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 32
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "71",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "99",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "2200元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu348",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 7,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "73",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "14",
+        "psychological_resilience": "102",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu349",
+      "grade": "大一",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "55",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "97",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2500元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 14,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu350",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 9,
+      "CPSS": 48
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "49",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "83",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "0元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu351",
+      "grade": "大四",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 9,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "8.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "66",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "17",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "97",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 14,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu352",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "60",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "99",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 22,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu353",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 11,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "112",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2500元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu354",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "71",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "94",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 25,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu355",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 9,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "16",
+        "psychological_resilience": "107",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "6300元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 25,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu356",
+      "grade": "大四",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "53",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "16",
+        "psychological_resilience": "101",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "3000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 6
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu357",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "42",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "81",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu358",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 8,
+      "CPSS": 55
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "63",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "85",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 25,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu359",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 6,
+      "CPSS": 49
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "24",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "13",
+        "psychological_resilience": "72",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "小学",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu360",
+      "grade": "大一",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 11,
+      "CPSS": 45
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "55",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "84",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 29,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu361",
+      "grade": "大二",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 11,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "14",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "110",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu362",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 12,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "53",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "100",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 16,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu363",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 7,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "55",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "89",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu364",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "67",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "19",
+        "psychological_resilience": "97",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 19,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu365",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 52
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "60",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "12",
+        "psychological_resilience": "88",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 21
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu366",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 6,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "58",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "69",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu367",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "7",
+      "Campbell": 10,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "58",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "81",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 23,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu368",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 8,
+      "CPSS": 49
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "50",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "92",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 10,
+      "academic_involution_level": 30
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu369",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "7",
+      "Campbell": 11,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "73",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "103",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu370",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 12,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "66",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "29",
+        "psychological_resilience": "86",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 14,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu371",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 8,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "71",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "93",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu372",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 9,
+      "CPSS": 59
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "14",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "92",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 21,
+      "academic_involution_level": 6
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu373",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "71",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "14",
+        "psychological_resilience": "93",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2500元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu374",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 8,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "69",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "86",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "3000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 25
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu375",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "19",
+      "Campbell": 4,
+      "CPSS": 59
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "38",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "79",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 14,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu376",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 9,
+      "CPSS": 38
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "33",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "76",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "很不好",
+      "social_media_addiction": 13,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu377",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 13,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "8.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "80",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "113",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu378",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 13,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "59",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "17",
+        "psychological_resilience": "111",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 9
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu379",
+      "grade": "大二",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 13,
+      "CPSS": 28
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "72",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "13",
+        "upward_social_comparison": "15",
+        "psychological_resilience": "104",
+        "stressor_count": "1"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 10,
+      "academic_involution_level": 10
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu380",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "20.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "16",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "90",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 15,
+      "academic_involution_level": 25
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu381",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "64",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "93",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "0元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 14,
+      "academic_involution_level": 21
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu382",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 9,
+      "CPSS": 44
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "62",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "13",
+        "psychological_resilience": "108",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 14,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu383",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 11,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "73",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "14",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "113",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "0元",
+      "bedtime": 22,
+      "self_rated_health": "一般",
+      "social_media_addiction": 8,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu384",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "19",
+      "Campbell": 6,
+      "CPSS": 55
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "48",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "11",
+        "psychological_resilience": "77",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1300元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu385",
+      "grade": "博士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 9,
+      "CPSS": 51
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "73",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "28",
+        "psychological_resilience": "95",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 23,
+      "academic_involution_level": 28
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu386",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "58",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "81",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 18,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu387",
+      "grade": "大一",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 13,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "51",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "89",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "2500元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 24,
+      "academic_involution_level": 13
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu388",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 8,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "49",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "89",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "700元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 13,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu389",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 37
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "74",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "11",
+        "psychological_resilience": "101",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu390",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 10,
+      "CPSS": 53
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "76",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "28",
+        "psychological_resilience": "90",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2500元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 21,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu391",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 7,
+      "CPSS": 58
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "45",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "71",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 25,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu392",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 7,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "89",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu393",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 9,
+      "CPSS": 52
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "54",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "12",
+        "psychological_resilience": "64",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 21,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu394",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "农学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 11,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "64",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "104",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu395",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 11,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.5小时",
+        "sleep_quality": "8/10",
+        "social_support": "60",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "104",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 23
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu396",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 14,
+      "CPSS": 18
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "84",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "133",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu397",
+      "grade": "大一",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "农学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 7,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "46",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "12",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "84",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 17,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu398",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "15",
+      "Campbell": 6,
+      "CPSS": 55
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "2/10",
+        "social_support": "53",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "70",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "800元",
+      "bedtime": 0,
+      "self_rated_health": "很不好",
+      "social_media_addiction": 28,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu399",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 10,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "28",
+        "psychological_resilience": "102",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu400",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "18",
+      "Campbell": 6,
+      "CPSS": 54
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "55",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "81",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu401",
+      "grade": "博士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "76",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "111",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu402",
+      "grade": "大二",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 4,
+      "CPSS": 56
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "2/10",
+        "social_support": "50",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "92",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "200元",
+      "bedtime": 23,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 25,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu403",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 8,
+      "CPSS": 54
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "62",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "14",
+        "psychological_resilience": "90",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 10,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu404",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 29
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "101",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 25,
+      "academic_involution_level": 26
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu405",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "12.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "73",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "104",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 12,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu406",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 12,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "70",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "94",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 16,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu407",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 9,
+      "CPSS": 45
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "61",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "96",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "小学",
+      "monthly_allowance": "2200元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 23,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu408",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 6,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "3/10",
+        "social_support": "42",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "78",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 2,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 25,
+      "academic_involution_level": 25
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu409",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "18",
+      "Campbell": 6,
+      "CPSS": 55
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "35",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "56",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 25,
+      "academic_involution_level": 23
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu410",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 10,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "62",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "84",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 16,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu411",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 5,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "58",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "11",
+        "psychological_resilience": "100",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 21
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu412",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "农学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 13,
+      "CPSS": 32
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "63",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "109",
+        "stressor_count": "1"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu413",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 12,
+      "CPSS": 43
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "70",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "98",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 2,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu414",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 9,
+      "CPSS": 38
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "75",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "82",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2300元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 6
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu415",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 9,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "43",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "19",
+        "psychological_resilience": "87",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu416",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 48
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "54",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "16",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "82",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 10
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu417",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "63",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "91",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu418",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 9,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "66",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "95",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1200元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 12,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu419",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "88",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu420",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 27
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "70",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "112",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": "2500元",
+      "bedtime": 22,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 9,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu421",
+      "grade": "博士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 9,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "70",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "98",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 23
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu422",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 10,
+      "CPSS": 38
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "62",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "15",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "95",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu423",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 12,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "77",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "95",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "不识字",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 27,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu424",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.5小时",
+        "sleep_quality": "7/10",
+        "social_support": "69",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "104",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "大专",
+      "monthly_allowance": "2500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 12,
+      "academic_involution_level": 9
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu425",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 6,
+      "CPSS": 45
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "52",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "28",
+        "psychological_resilience": "85",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 15,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu426",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "14.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "62",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "106",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 14,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu427",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "14",
+      "Campbell": 7,
+      "CPSS": 57
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "54",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "16",
+        "psychological_resilience": "95",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu428",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 7,
+      "CPSS": 53
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "63",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "84",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1000元",
+      "bedtime": 2,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 22,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu429",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 8,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "10/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "101",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu430",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 10,
+      "CPSS": 53
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "74",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "17",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "95",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 23,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu431",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 7,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "64",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "16",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "73",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1600元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 21,
+      "academic_involution_level": 10
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu432",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 27
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "78",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "18",
+        "upward_social_comparison": "14",
+        "psychological_resilience": "115",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "4000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 10
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu433",
+      "grade": "大一",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 8,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "54",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "84",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu434",
+      "grade": "大三",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 12,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "76",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "109",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1400元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu435",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "4",
+      "Campbell": 10,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "51",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "82",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "小学",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu436",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "16",
+      "Campbell": 6,
+      "CPSS": 56
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "68",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "76",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "3000元",
+      "bedtime": 2,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 26,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu437",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 12,
+      "CPSS": 32
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "63",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "98",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu438",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 9,
+      "CPSS": 46
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "64",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "90",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 23
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu439",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "7",
+      "Campbell": 8,
+      "CPSS": 49
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "66",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "26",
+        "psychological_resilience": "84",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 22,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu440",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 12,
+      "CPSS": 33
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "82",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "28",
+        "psychological_resilience": "114",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "1800元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 22
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu441",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 37
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "73",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "27",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "105",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 25
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu442",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "医学"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 32
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "72",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "106",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "小学",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "很好",
+      "social_media_addiction": 13,
+      "academic_involution_level": 19
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu443",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 8,
+      "CPSS": 60
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "56",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "25",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "63",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 24,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu444",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 9,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "65",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "12",
+        "psychological_resilience": "102",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "很好",
+      "social_media_addiction": 15,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu445",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 10,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "69",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "102",
+        "stressor_count": "9"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "300元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 8
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu446",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 9,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "43",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "93",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 22,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu447",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "18",
+        "psychological_resilience": "97",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "6000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 16,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu448",
+      "grade": "大一",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "8.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "56",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "99",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名76%-90%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "1500元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 14,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu449",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 11,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "77",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "118",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 22,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu450",
+      "grade": "大四",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "15",
+      "Campbell": 7,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "40",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "23",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "72",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "1500元",
+      "bedtime": 1,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 19,
+      "academic_involution_level": 18
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu451",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 7,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "52",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "95",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 17,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu452",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 28
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "84",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "11",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "99",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "研究生",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 20,
+      "academic_involution_level": 7
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu453",
+      "grade": "大四",
+      "gender": "男",
+      "university_type": "985高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "11",
+      "Campbell": 9,
+      "CPSS": 47
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "4.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "65",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "26",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "101",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu454",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "9",
+      "Campbell": 10,
+      "CPSS": 48
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "72",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "91",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "3000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 24
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu455",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "58",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "16",
+        "upward_social_comparison": "22",
+        "psychological_resilience": "99",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 12,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu456",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "1",
+      "Campbell": 10,
+      "CPSS": 41
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "67",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "103",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "初中",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 15,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu457",
+      "grade": "博士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 9,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "56",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "95",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "0元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 17,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu458",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 8,
+      "CPSS": 34
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "52",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "21",
+        "upward_social_comparison": "24",
+        "psychological_resilience": "88",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "不识字",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 21,
+      "academic_involution_level": 20
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu459",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "69",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "19",
+        "upward_social_comparison": "17",
+        "psychological_resilience": "88",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "不识字",
+      "monthly_allowance": "1500元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 19,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu460",
+      "grade": "大三",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "12",
+      "Campbell": 6,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.5小时",
+        "sleep_quality": "7/10",
+        "social_support": "64",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "30",
+        "upward_social_comparison": "23",
+        "psychological_resilience": "90",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "3000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 17
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu461",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "16",
+      "Campbell": 9,
+      "CPSS": 45
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "6.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "64",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "81",
+        "stressor_count": "6"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2500元",
+      "bedtime": 0,
+      "self_rated_health": "一般",
+      "social_media_addiction": 26,
+      "academic_involution_level": 29
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu462",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 10,
+      "CPSS": 37
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "8/10",
+        "social_support": "64",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "14",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "94",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名51%-75%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "1500元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 18,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu463",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "3",
+      "Campbell": 11,
+      "CPSS": 35
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "10.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "61",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "27",
+        "psychological_resilience": "113",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 27
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu464",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "5",
+      "Campbell": 9,
+      "CPSS": 49
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "62",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "97",
+        "stressor_count": "5"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前10%",
+      "parents_residence": "县城",
+      "mother_education": "高中/中专",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 19,
+      "academic_involution_level": 16
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu465",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "10",
+      "Campbell": 7,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "1.0小时",
+        "sleep_quality": "5/10",
+        "social_support": "12",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "30",
+        "upward_social_comparison": "7",
+        "psychological_resilience": "81",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "新生（不适用）",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 23,
+      "self_rated_health": "一般",
+      "social_media_addiction": 13,
+      "academic_involution_level": 11
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu466",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "2",
+      "Campbell": 11,
+      "CPSS": 28
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "3.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "78",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "12",
+        "upward_social_comparison": "21",
+        "psychological_resilience": "118",
+        "stressor_count": "2"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "初中",
+      "monthly_allowance": "1800元",
+      "bedtime": 23,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 7,
+      "academic_involution_level": 12
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu467",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 10,
+      "CPSS": 40
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "0.5小时",
+        "sleep_quality": "2/10",
+        "social_support": "51",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "29",
+        "upward_social_comparison": "25",
+        "psychological_resilience": "80",
+        "stressor_count": "4"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "乡镇、农村",
+      "mother_education": "小学",
+      "monthly_allowance": "1200元",
+      "bedtime": 2,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 28
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu468",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "211高校",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "15",
+      "Campbell": 6,
+      "CPSS": 50
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "2.0小时",
+        "sleep_quality": "4/10",
+        "social_support": "52",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "22",
+        "upward_social_comparison": "20",
+        "psychological_resilience": "83",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "县城",
+      "mother_education": "初中",
+      "monthly_allowance": "1200元",
+      "bedtime": 0,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 24,
+      "academic_involution_level": 14
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu469",
+      "grade": "硕士",
+      "gender": "男",
+      "university_type": "其他",
+      "major_type": "理工"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "14",
+      "Campbell": 4,
+      "CPSS": 42
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "7.0小时",
+        "sleep_quality": "6/10",
+        "social_support": "56",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "20",
+        "upward_social_comparison": "19",
+        "psychological_resilience": "107",
+        "stressor_count": "7"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名后10%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "1500元",
+      "bedtime": 3,
+      "self_rated_health": "不太好",
+      "social_media_addiction": 17,
+      "academic_involution_level": 15
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu470",
+      "grade": "大二",
+      "gender": "女",
+      "university_type": "211高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "8",
+      "Campbell": 9,
+      "CPSS": 39
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "7/10",
+        "social_support": "72",
+        "help_seeking_willingness": "有",
+        "perceived_academic_involution": "24",
+        "upward_social_comparison": "30",
+        "psychological_resilience": "96",
+        "stressor_count": "8"
+      }
+    },
+    "additional_info": {
+      "only_child": "是",
+      "academic_performance": "综合成绩排名26%-50%",
+      "parents_residence": "地市及以上城市",
+      "mother_education": "大专",
+      "monthly_allowance": "2000元",
+      "bedtime": 1,
+      "self_rated_health": "一般",
+      "social_media_addiction": 15,
+      "academic_involution_level": 9
+    }
+  },
+  {
+    "basic_info": {
+      "id": "stu471",
+      "grade": "硕士",
+      "gender": "女",
+      "university_type": "985高校",
+      "major_type": "社科文科"
+    },
+    "realQuestionnaireResults": {
+      "ghq": "6",
+      "Campbell": 11,
+      "CPSS": 36
+    },
+    "psychologicalPortrait": {
+      "influencing_factors": {
+        "exercise_duration": "5.0小时",
+        "sleep_quality": "9/10",
+        "social_support": "59",
+        "help_seeking_willingness": "无",
+        "perceived_academic_involution": "28",
+        "upward_social_comparison": "29",
+        "psychological_resilience": "94",
+        "stressor_count": "3"
+      }
+    },
+    "additional_info": {
+      "only_child": "否",
+      "academic_performance": "综合成绩排名前11%-25%",
+      "parents_residence": "县城",
+      "mother_education": "本科",
+      "monthly_allowance": "2000元",
+      "bedtime": 0,
+      "self_rated_health": "比较好",
+      "social_media_addiction": 20,
+      "academic_involution_level": 26
+    }
+  }
+]
